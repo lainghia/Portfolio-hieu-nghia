@@ -31,10 +31,10 @@ const challenges = [
 ];
 
 const timeline = [
-  { week: 'Tuần 1-2', title: 'Kỹ năng số cơ bản', desc: 'Quản lý tệp, thư mục và tìm kiếm thông tin học thuật' },
-  { week: 'Tuần 3-4', title: 'Prompt Engineering', desc: 'Viết và tối ưu Prompt cho các tác vụ học tập với ChatGPT' },
-  { week: 'Tuần 5-6', title: 'Hợp tác & Sáng tạo', desc: 'Làm việc nhóm trực tuyến và sáng tạo nội dung với AI' },
-  { week: 'Tuần 7-8', title: 'Đạo đức AI & Tổng kết', desc: 'Nghiên cứu đạo đức AI và xây dựng Portfolio' },
+  { week: 'Tuần 1-2-3-4', title: 'Kỹ năng số cơ bản', desc: 'Quản lý tệp, thư mục và tìm kiếm thông tin học thuật' },
+  { week: 'Tuần 5-6-7-8', title: 'Prompt Engineering', desc: 'Viết và tối ưu Prompt cho các tác vụ học tập với ChatGPT' },
+  { week: 'Tuần 9-10', title: 'Hợp tác & Sáng tạo', desc: 'Làm việc nhóm trực tuyến và sáng tạo nội dung với AI' },
+  { week: 'Tuần 11-12-13-14-15', title: 'Đạo đức AI & Tổng kết', desc: 'Nghiên cứu đạo đức AI và xây dựng Portfolio' },
 ];
 
 export default function Summary() {
