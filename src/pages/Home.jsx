@@ -264,13 +264,13 @@ export default function Home() {
             <div className="relative">
               <img
                 src={avatar2}
-                alt="Tà Xùa - Hành trình"
+                alt="Hành trình tuổi trẻ"
                 className="w-full h-72 object-cover rounded-2xl"
                 style={{ objectPosition: 'center 30%' }}
               />
               <div className="absolute inset-0 rounded-2xl bg-gradient-to-r from-dark-900/70 to-transparent" />
               <div className="absolute bottom-6 left-6">
-                <div className="text-white font-bold">Tà Xùa – 1758m</div>
+                
                 <div className="text-primary-400 text-sm">Luôn hướng đến đỉnh cao mới</div>
               </div>
             </div>
