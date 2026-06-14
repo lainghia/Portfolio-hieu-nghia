@@ -63,7 +63,7 @@ export default function Footer() {
             © 2025 Lại Như Hiếu Nghĩa · MSV: 25021420
           </p>
           <p className="text-gray-700 text-xs">
-            Nhập học Công nghệ số và ứng dụng Trí tuệ nhân tạo
+            Nhập môn Công nghệ số và ứng dụng Trí tuệ nhân tạo
           </p>
         </div>
       </div>

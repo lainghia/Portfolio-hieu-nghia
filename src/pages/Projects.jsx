@@ -24,7 +24,7 @@ export default function Projects() {
             transition={{ duration: 0.6 }}
           >
             <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-primary-900/40 border border-primary-700/30 text-primary-400 text-xs font-mono mb-6">
-              Môn: Nhập học Công nghệ số và ứng dụng Trí tuệ nhân tạo
+              Môn: Nhập môn Công nghệ số và ứng dụng Trí tuệ nhân tạo
             </div>
             <h1 className="text-4xl sm:text-5xl font-bold text-white mb-4">
               Danh sách <span className="text-gradient">Dự án</span>

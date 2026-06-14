@@ -26,7 +26,7 @@ export const projects = [
       'Thiết lập quy trình backup dữ liệu tự động lên Cloud',
       'Tiết kiệm 30% thời gian tìm kiếm tài liệu',
     ],
-    driveLink: 'https://drive.google.com/drive/folders/1O4Lo6m6eROXeZmDZk0cq68lA9RbxN7kh?usp=drive_link',
+    driveLink: 'https://docs.google.com/document/d/1jCi40EXU3tKBJuUu6TUkPAebJOPWT401/edit?usp=drive_link&ouid=102830501022260026525&rtpof=true&sd=true',
   },
   {
     id: 2,
@@ -54,7 +54,7 @@ export const projects = [
       'Tổng hợp và phân tích được tài liệu tiếng Anh chuyên ngành',
       'Quản lý thư viện tài liệu cá nhân với Zotero',
     ],
-    driveLink: 'https://drive.google.com/drive/folders/1z8moMmOrsADLQjsONKZgB80tXpmprhRs?usp=sharing',
+    driveLink: 'https://docs.google.com/document/d/12L5m818F9kNRaZKrck37ykZi6X8iJGRL/edit?usp=drive_link&ouid=102830501022260026525&rtpof=true&sd=true',
   },
   {
     id: 3,
@@ -82,7 +82,7 @@ export const projects = [
       'Rút ra 7 nguyên tắc viết Prompt hiệu quả từ thực nghiệm',
       'Ứng dụng được AI vào hỗ trợ học tập môn Luật Kinh doanh',
     ],
-    driveLink: 'https://drive.google.com/drive/folders/1cSvYM8Bd1s_WztYO1tESHuYoQc_Fe_02?usp=drive_link',
+    driveLink: 'https://drive.google.com/file/d/14x4R-leAlc94EGAG9yF9YokaD9KUlNAz/view?usp=drive_link',
   },
   {
     id: 4,
@@ -110,7 +110,7 @@ export const projects = [
       'Cải thiện hiệu quả giao tiếp và phối hợp trong nhóm',
       'Hoàn thành dự án nhóm đúng tiến độ với chất lượng cao',
     ],
-    driveLink: 'https://drive.google.com/drive/folders/1Df0l_45M2p2VjhaKU0st1OvdV5lWN1DS?usp=drive_link',
+    driveLink: 'https://docs.google.com/document/d/1vlQJ7LGweMxAnIuF0c6VPSX1nRhTY_Xz/edit?usp=drive_link&ouid=102830501022260026525&rtpof=true&sd=true',
   },
   {
     id: 5,
@@ -138,7 +138,7 @@ export const projects = [
       'Thiết kế slide thuyết trình chuyên nghiệp với Gamma.app',
       'Hiểu rõ giới hạn và tiềm năng của AI tạo sinh',
     ],
-    driveLink: 'https://drive.google.com/drive/folders/1mCdHISVARXYeSgBSSSKGrjIXPubRy5YY?usp=drive_link',
+    driveLink: 'https://docs.google.com/document/d/1ubOfTKeAAxSAwTOohRfaIzACSwzpojyc/edit?usp=drive_link&ouid=102830501022260026525&rtpof=true&sd=true',
   },
   {
     id: 6,
@@ -166,6 +166,6 @@ export const projects = [
       'Hiểu rõ quy định về sở hữu trí tuệ trong nội dung AI',
       'Trở thành công dân số có trách nhiệm trong kỷ nguyên AI',
     ],
-    driveLink: 'https://drive.google.com/drive/folders/1sTDGjTBaq7oMHmOw9DuvtLW3yOB7R_Fk?usp=drive_link',
+    driveLink: 'https://docs.google.com/document/d/1g5rfzBVQ0Sj-I0-48Wn3wLrghW_Ki9Lf/edit?usp=drive_link&ouid=102830501022260026525&rtpof=true&sd=true',
   },
 ];

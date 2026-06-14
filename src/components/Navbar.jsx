@@ -42,7 +42,7 @@ export default function Navbar() {
               </div>
               <div>
                 <span className="font-bold text-white text-sm">HieuNghia</span>
-                <span className="text-primary-500 text-sm">.dev</span>
+                <span className="text-primary-500 text-sm">.portfolio</span>
               </div>
             </Link>
 

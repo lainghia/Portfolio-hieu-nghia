@@ -91,7 +91,7 @@ export default function Home() {
               >
                 <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-primary-900/40 border border-primary-700/30 text-primary-400 text-xs font-mono mb-6">
                   <span className="w-1.5 h-1.5 rounded-full bg-primary-500 animate-pulse" />
-                  VNU1001_E252018 · Nhập học Công nghệ số & AI
+                  VNU1001_E252018 · Nhập môn Công nghệ số & ứng dụng trí tuệ nhân tạo
                 </div>
 
                 <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-4 leading-tight">

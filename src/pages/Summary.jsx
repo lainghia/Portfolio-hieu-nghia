@@ -162,7 +162,7 @@ export default function Summary() {
               </div>
               <div className="space-y-4 text-gray-300 leading-relaxed">
                 <p>
-                  Môn học <span className="text-primary-400 font-medium">"Nhập học Công nghệ số và ứng dụng Trí tuệ nhân tạo"</span> đã mở ra cho tôi một góc nhìn hoàn toàn mới về cách học tập và làm việc trong kỷ nguyên số. Từ một sinh viên còn xa lạ với khái niệm Prompt Engineering hay AI tạo sinh, tôi đã dần xây dựng được nền tảng kỹ năng số vững chắc qua từng bài thực hành.
+                  Môn học <span className="text-primary-400 font-medium">"Nhập môn Công nghệ số và ứng dụng Trí tuệ nhân tạo"</span> đã mở ra cho tôi một góc nhìn hoàn toàn mới về cách học tập và làm việc trong kỷ nguyên số. Từ một sinh viên còn xa lạ với khái niệm Prompt Engineering hay AI tạo sinh, tôi đã dần xây dựng được nền tảng kỹ năng số vững chắc qua từng bài thực hành.
                 </p>
                 <p>
                   Điều ấn tượng nhất trong hành trình này là việc nhận ra rằng <span className="text-white font-medium">AI không thay thế tư duy của con người, mà là công cụ khuếch đại nó.</span> Khi biết cách viết Prompt đúng, một mô hình AI có thể trở thành trợ lý học tập cực kỳ hiệu quả – từ tóm tắt tài liệu, giải thích khái niệm phức tạp đến tạo bộ câu hỏi ôn tập có cấu trúc rõ ràng.
