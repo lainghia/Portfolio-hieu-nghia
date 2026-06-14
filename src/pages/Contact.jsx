@@ -13,12 +13,12 @@ const info = [
 ];
 
 const drives = [
-  { id: 1, title: 'Quản lý tệp và thư mục', url: 'https://drive.google.com/drive/folders/1O4Lo6m6eROXeZmDZk0cq68lA9RbxN7kh?usp=drive_link' },
-  { id: 2, title: 'Tìm kiếm thông tin học thuật', url: 'https://drive.google.com/drive/folders/1z8moMmOrsADLQjsONKZgB80tXpmprhRs?usp=sharing' },
-  { id: 3, title: 'Viết Prompt hiệu quả cho AI', url: 'https://drive.google.com/drive/folders/1cSvYM8Bd1s_WztYO1tESHuYoQc_Fe_02?usp=drive_link' },
-  { id: 4, title: 'Hợp tác trực tuyến', url: 'https://drive.google.com/drive/folders/1Df0l_45M2p2VjhaKU0st1OvdV5lWN1DS?usp=drive_link' },
-  { id: 5, title: 'Sáng tạo nội dung số bằng AI', url: 'https://drive.google.com/drive/folders/1mCdHISVARXYeSgBSSSKGrjIXPubRy5YY?usp=drive_link' },
-  { id: 6, title: 'Đạo đức và trách nhiệm AI', url: 'https://drive.google.com/drive/folders/1sTDGjTBaq7oMHmOw9DuvtLW3yOB7R_Fk?usp=drive_link' },
+  { id: 1, title: 'Quản lý tệp và thư mục', url: 'https://docs.google.com/document/d/1jCi40EXU3tKBJuUu6TUkPAebJOPWT401/edit?usp=drive_link&ouid=102830501022260026525&rtpof=true&sd=true' },
+  { id: 2, title: 'Tìm kiếm thông tin học thuật', url: 'https://docs.google.com/document/d/12L5m818F9kNRaZKrck37ykZi6X8iJGRL/edit?usp=drive_link&ouid=102830501022260026525&rtpof=true&sd=true' },
+  { id: 3, title: 'Viết Prompt hiệu quả cho AI', url: 'https://drive.google.com/file/d/14x4R-leAlc94EGAG9yF9YokaD9KUlNAz/view?usp=drive_link' },
+  { id: 4, title: 'Hợp tác trực tuyến', url: 'https://docs.google.com/document/d/1vlQJ7LGweMxAnIuF0c6VPSX1nRhTY_Xz/edit?usp=drive_link&ouid=102830501022260026525&rtpof=true&sd=true' },
+  { id: 5, title: 'Sáng tạo nội dung số bằng AI', url: 'https://docs.google.com/document/d/1ubOfTKeAAxSAwTOohRfaIzACSwzpojyc/edit?usp=drive_link&ouid=102830501022260026525&rtpof=true&sd=true' },
+  { id: 6, title: 'Đạo đức và trách nhiệm AI', url: 'https://docs.google.com/document/d/1g5rfzBVQ0Sj-I0-48Wn3wLrghW_Ki9Lf/edit?usp=drive_link&ouid=102830501022260026525&rtpof=true&sd=true' },
 ];
 
 export default function Contact() {
@@ -142,8 +142,8 @@ export default function Contact() {
           className="mt-12 glass rounded-2xl p-6 text-center border border-primary-800/20"
         >
           <div className="text-xs font-mono text-gray-600 mb-2">Môn học</div>
-          <div className="text-white font-bold text-lg mb-1">Nhập học Công nghệ số và ứng dụng Trí tuệ nhân tạo</div>
-          <div className="text-gray-500 text-sm">Lớp: VNU1001_E252018 · Học kỳ 2 · Năm học 2024–2025</div>
+          <div className="text-white font-bold text-lg mb-1">Nhập môn Công nghệ số và ứng dụng Trí tuệ nhân tạo</div>
+          <div className="text-gray-500 text-sm">Lớp: VNU1001_E252018 · Học kỳ 2 · Năm học 2025–2026</div>
         </motion.div>
       </div>
     </div>
